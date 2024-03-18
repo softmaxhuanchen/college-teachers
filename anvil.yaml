@@ -52,4 +52,19 @@ db_schema:
     - name: time
       admin_ui: {width: 200}
       type: datetime
+  articles:
+    client: none
+    server: full
+    columns: []
+    title: Articles
+  categories:
+    client: none
+    server: full
+    columns: []
+    title: Categories
+  users:
+    client: none
+    server: full
+    columns: []
+    title: Users
 renamed: true
